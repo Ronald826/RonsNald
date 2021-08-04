@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RonsNald
+- 👋 Hi, I’m @Ronald826
 - 👀 I’m interested in: C++, C, and VB6...
 - 🌱 I’m currently learning: VB6
 - 💞️ I’m looking to collaborate on: No one.
